@@ -1,0 +1,42 @@
+.graduation{
+    background-color:rgb(221, 230, 230);
+    padding: 20px;
+    margin:50px;
+    border-radius: 5px;
+    align-content: center;
+
+}
+td input{
+    width: 30%;
+    padding: 5px;
+    margin-right: auto;
+    
+    
+    
+}
+label{
+    display: inline-block;
+}
+form{
+    margin-left: 10%;
+}
+.btnsubmit{
+    padding: 10px;
+    background-color: rgba(76, 76, 226, 0.966);
+    color: white;
+    width: 20%;
+    border-radius: 10px;
+    margin-left: 15px;
+    border-style: none;
+    
+}
+h1{
+    text-align: center;
+}
+.description{
+    margin-bottom: 35px;
+    text-align: center;
+}
+td{
+    text-align: right;
+}
